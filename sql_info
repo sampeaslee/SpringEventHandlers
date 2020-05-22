@@ -1,0 +1,15 @@
+MySQl Information 
+Establishing Connection
+mysql -u user -p 
+*can specify a database you want to enter after -p
+Disconnect QUIT
+
+Database Creation 
+create database database_name
+Go into database
+use database_name
+
+Table Creation 
+create table table_name(row1_name variable_type, ... )
+Look at format of table
+Describe table_name 
